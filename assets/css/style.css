@@ -1,5 +1,5 @@
 body{
-background-image:url('register.png');
+background-image: url('../img/register.png');
 background-size:cover;
 background-repeat:no-repeat; background-position:center;
 filter: brightness(1.5);
